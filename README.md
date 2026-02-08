@@ -1,5 +1,5 @@
 # Spellbound 🪄✨- Nandan Praveen, Bornini Chandra, Matyas Beyene
-
+Competing for - Best First Time Hack and Most Magical Hack
 ## Inspiration
 We observed that university students often struggle to maintain concentration amidst digital distractions and the monotony of prolonged study sessions. Drawing from the principles of gamification, we sought to transform the University of Georgia campus into an interactive landscape where academic effort translates into tangible virtual progress. Our goal was to incentivize physical presence at designated learning centers by rewarding users with unlockable content and a sense of magical progression. 
 
